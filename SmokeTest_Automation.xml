@@ -9,7 +9,8 @@
   <test thread-count="5" name="test">
   
     <classes>
-      <class name="SmokeTesting_Automation.Application_And_Account_Services"/>    
+      <class name="SmokeTesting_Automation.Application_And_Account_Services"/> 
+      <class name="SmokeTesting_Automation.InfraStructure_Services"/>    
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
