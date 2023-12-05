@@ -20,7 +20,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.BeforeClass;
 
 public class BaseClass {
-	public static WebDriver driver;
+	public WebDriver driver;
 	public ResourceBundle rb;
 	int i=1;
 
